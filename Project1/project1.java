@@ -139,7 +139,7 @@ public class project1 {
 			//if item count  (prodcuts) > 1:
 				//prints quantity with "@"
 				//list price per 1 item to the left of subtotal
-				//total at the end after 2 blank lines
+				//total at the end after 2 blank liness
 		
 		
 		
