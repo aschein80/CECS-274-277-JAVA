@@ -1,1 +1,0 @@
-Group project - Phonebook Application that simulates a phone's call log and can be manipulated (num. calls updated/decreased), phonebook information (numbers, names, location), etc. 
