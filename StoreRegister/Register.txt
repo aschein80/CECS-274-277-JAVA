@@ -1,0 +1,1 @@
+Java program modeling grocery store checkout system and prints receipt.
